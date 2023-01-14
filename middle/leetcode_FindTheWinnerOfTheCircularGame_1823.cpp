@@ -23,7 +23,7 @@ public:
 
               
             }
-            que.pop();
+            que.pop();  // delete last after increment by number
         }
 
         int ans = que.front();
